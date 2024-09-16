@@ -86,7 +86,7 @@ tags: []
 - [Nicolás Zerega](https://produccioncientifica.uca.es/investigadores/168256/detalle) - (email: nicolas.zerega@uca.es)
  
 ## Universidad de Sevilla
- 
+
 - [Alberto Japón](https://scholar.google.com/citations?user=xZ13rEMAAAAJ&hl=es) - (email: albertojaponsaez@gmail.com)
 - [Justo Puerto](https://investigacion.us.es/sisius/sis_showpub.php?idpers=1063) - (email: puerto@us.es)
 - [Yolanda Hinojosa](https://investigacion.us.es/sisius/sis_showpub.php?idpers=876) - (email: yhinojos@us.es)

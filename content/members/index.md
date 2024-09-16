@@ -1,0 +1,233 @@
+---
+title: Miembros
+author: ''
+date: '2024-09-09'
+slug: members
+categories: []
+tags: []
+---
+
+<link rel="stylesheet" href="css/estilo.css">
+
+<!-- &nbsp; &nbsp; Antonio M. <br> Rodríguez Chía  &nbsp; | &nbsp; Inma Espejo &nbsp; | Juan Manuel <br> &nbsp; Muñoz Ocaña &nbsp; |      -->
+<!-- :------------------------------:|:--------------------------------:|:--------------------------------:| -->
+<!-- &nbsp; &nbsp; <img src="images/AntonioRodChia.jpg" width="200" height="200" /> &nbsp; | &nbsp;  <img src="images/InmaEspejo.jpg" width="200" height="200" /> &nbsp; | &nbsp; <img src="images/JuanmaMunoz.jpg" width="200" height="200" /> &nbsp; |  -->
+
+## Universidad Miguel Hernández de Elche
+
+- [Mercedes Landete](https://www.umh.es/contenido/Estudios/:persona_4183/datos_es.html) - (email: landete@umh.es)
+- [Javier Alcaraz](https://www.umh.es/contenido/Estudios/:persona_143901/datos_es.html) - (email: jalcaraz@umh.es)
+- [Juan Francisco Monge](https://www.umh.es/contenido/pas/:persona_117876/datos_es.html) - (email: monge@umh.es)
+- [Jose Luis Sainz-Pardo](https://www.umh.es/contenido/Estudios/:persona_4485/datos_es.html) - (email: jlsainz@umh.es)
+- [Marina Leal](https://www.umh.es/contenido/Estudios/:persona_259463/datos_es.html) - (email: m.leal@umh.es)
+- [Laura Antón](https://www.umh.es/contenido/PDI/:persona_135958/datos_es.html) - (email: l.anton@umh.es)
+- [Alejandro Moya](https://www.umh.es/contenido/Visitantes/:persona_183628/datos_es.html) - (email: a.moya@umh.es)
+
+## Universidad de Murcia
+
+- [Blas Pelegrín](https://portalinvestigacion.um.es/investigadores/332302/detalle) - (email: pelegrin@um.es)
+- [Alfredo Marín](https://portalinvestigacion.um.es/investigadores/330734/detalle) - (email: amarin@um.es)
+- [José Fernández Hernández](https://portalinvestigacion.um.es/investigadores/332132/detalle) - (email: josefdez@um.es)
+- [Pascual Fernández Hernández](https://portalinvestigacion.um.es/investigadores/332303/detalle) - (email: pfdez@um.es)
+- [Concepción D. Sanchez](https://portalinvestigacion.um.es/investigadores/457488/detalle) - (email: concepcion.dominguez@um.es)
+
+## Universidad Politécnica de Valencia
+
+- [Jose Manuel Sanchís](https://www.upv.es/ficha-personal/jmsanch) - (email: jmsanch@upv.es)
+
+## Universidad de Valencia
+
+- [Enrique Benavent](https://producciocientifica.uv.es/investigadores/365166/detalle) - (email: enrique.benavent@uv.es)
+- [Miguel Reula](https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=reumarmi&idA=) - (email: miguel.reula@uv.es)
+- [Paula Segura](https://www.researchgate.net/profile/Paula-Segura-Martinez) - (email: psegmar@upvnet.upv.es)
+- [Juan José Peiró](https://producciocientifica.uv.es/investigadores/334814/detalle) - (email: juanjo.peiro@uv.es)
+
+
+## Univerisdad de la Laguna
+
+- [Juan José Salazar](https://portalciencia.ull.es/investigadores/81268/detalle) - (email: jjsalaza@ull.es)
+- [Hipolito Hernández](https://portalciencia.ull.es/investigadores/81612/detalle) - (email: hhperez@ull.es)
+- [Jorge Riera](https://portalciencia.ull.es/investigadores/80985/detalle) -  (email: jriera@ull.es)
+- [Inmaculada Rodríguez](https://portalciencia.ull.es/investigadores/81634/detalle) - (email: irguez@ull.es) 
+- [David Pérez]() - (email:)
+- [Isabel Dorta]() - (email: isadorta@ull.es )
+
+## Universidad de Las Palmas de Gran Canarias
+
+- [Dolores R. Santos Peñate](http://www2.ulpgc.es/index.php?pagina=drsantos.dmc&ver=inicio) - (email: dr.santos@ulpgc.es)
+- [Pablo Dorta González](http://www2.ulpgc.es/index.php?pagina=pdorta.dmc&ver=inicio) - (email: pablo.dorta@ulpgc.es)
+- [Manrique de Lara Peñate](http://www2.ulpgc.es/index.php?pagina=cmanrique.daea&ver=inicio) - (email: casiano.manrique@ulpgc.es) 
+- [Rafael R. Suárez](http://www2.ulpgc.es/index.php?pagina=rsuarez.dmc&ver=inicio) - (email: rafael.suarez@ulpgc.es)
+
+## Universidad de Granada
+
+- [Víctor Blanco](https://www.ugr.es/personal/victor-blanco-izquierdo) - (email: vblanco@ugr.es)
+- [Román Salmerón](https://www.ugr.es/personal/roman-salmeron-gomez) - (email: romansg@ugr.es)
+- [Alessio Gaggero](https://www.ugr.es/personal/alessio-gaggero) - (email: alessiogaggero@ugr.es)
+- [Catalina García](https://produccioncientifica.ugr.es/investigadores/353144/detalle) - (email: cbgarcia@ugr.es)
+- [T. García]() - (email: tgarcian@ugr.es)
+- [Miguel A. Martinez](https://www.ugr.es/personal/miguel-martinez-anton) - (email: mmanton@ugr.es)
+- [Gabriel Gonzalez]() - (email: ggdominguez@ugr.es)
+
+## Universidad de Cádiz
+
+- [Antonio M. Rodríguez Chía](https://produccioncientifica.uca.es/investigadores/113308/detalle) - (email:  antonio.rodriguezchia@uca.es)
+- [Antonia Castaño](https://produccioncientifica.uca.es/investigadores/112288/detalle) - (email: antonia.castano@uca.es)
+- [Marta Baldomero](https://produccioncientifica.uca.es/investigadores/120216/detalle) - (email: marta.baldomero@uca.es)
+- [Inma Espejo](https://produccioncientifica.uca.es/investigadores/112461/detalle) - (email: inmaculada.espejo@uca.es)
+- [Luisa Martínez](https://produccioncientifica.uca.es/investigadores/167733/detalle) - (email: luisa.martinez@uca.es)
+- [Juan Manuel Muñoz](https://produccioncientifica.uca.es/investigadores/120321/detalle) - (email: juanmanuel.munoz@uca.es)
+- [Teresa Navarro](https://produccioncientifica.uca.es/investigadores/751570/detalle) - (email: teresa.navarro@uca.es)
+- [Raúl Páez](https://produccioncientifica.uca.es/investigadores/113134/detalle) - (email: raul.paez@uca.es)
+- [Concepción Valero](https://produccioncientifica.uca.es/investigadores/113568/detalle) - (email: concepcion.valero@uca.es)
+- [Elena Fernández](https://produccioncientifica.uca.es/investigadores/112479/detalle) - (email:  elena.fernandez@uca.es)
+- [Manuel Muñoz Márquez](https://produccioncientifica.uca.es/investigadores/113069/detalle) - (email: manuel.munoz@uca.es) 
+- [Manuel Arana](https://produccioncientifica.uca.es/investigadores/112088/detalle) - (email: manuel.arana@uca.es)
+- [Nicolás Zerega](https://produccioncientifica.uca.es/investigadores/168256/detalle) - (email: nicolas.zerega@uca.es)
+ 
+## Universidad de Sevilla
+ 
+- [Alberto Japón](https://scholar.google.com/citations?user=xZ13rEMAAAAJ&hl=es) - (email: albertojaponsaez@gmail.com)
+- [Justo Puerto](https://investigacion.us.es/sisius/sis_showpub.php?idpers=1063) - (email: puerto@us.es)
+- [Yolanda Hinojosa](https://investigacion.us.es/sisius/sis_showpub.php?idpers=876) - (email: yhinojos@us.es)
+- [Miguel A. Pozo](https://investigacion.us.es/sisius/sis_showpub.php?idpers=13006) - (email: miguelpozo@us.es)
+- [Diego Ponce](https://investigacion.us.es/sisius/sis_showpub.php?idpers=19658) - (email: dponce@us.es)
+- [Alberto Torrejón](https://investigacion.us.es/sisius/sis_showpub.php?idpers=30026) - (email: atorrejon@us.es)
+- [Francisco Temprano](https://investigacion.us.es/sisius/sis_showpub.php?idpers=31858) - (email: ftgarcia@us.es)
+- [David Canca](https://investigacion.us.es/sisius/sis_showpub.php?idpers=3050) - (email: dco@us.es)
+- [Juan Antonio Mesa](https://investigacion.us.es/sisius/sis_showpub.php?idpers=1195) - (email: jmesa@us.es)
+- [Francisco Ortega](https://investigacion.us.es/sisius/sis_showpub.php?idpers=4223)- (email: riejos@us.es)
+- [Federico Perea](https://investigacion.us.es/sisius/sis_showpub.php?idpers=9269) - (email: perea@us.es)
+- [Alicia De los Santos](https://investigacion.us.es/sisius/sis_showpub.php?idpers=13272) - (email: aliciasantos@us.es)
+- [Ramón Piedra](https://investigacion.us.es/sisius/sis_showpub.php?idpers=24162) - (email: rpiedra@us.es)
+- [Natividad Gonzalez-Blanco](https://investigacion.us.es/sisius/sis_showpub.php?idpers=25411) - (email: ngonzalez2@us.es)
+- [G. Marseglia](https://investigacion.us.es/sisius/sis_showpub.php?idpers=29438) - (email: )
+- [María Calvo]() - (email:)
+- [PL González]() - (email: )
+- [M. Calle-Suárez](https://investigacion.us.es/sisius/sis_showpub.php?idpers=7817) - (email: mcalle@us.es)
+- [Jose Luis Andrade](https://investigacion.us.es/sisius/sis_showpub.php?idpers=7797) - (email: jandrade@us.es)
+- [Jose M. Leon Blanco](https://investigacion.us.es/sisius/sis_showpub.php?idpers=3706) - (email: migueleon@us.es)
+- [Maria Cruz Lopez de los Mozos](https://investigacion.us.es/sisius/sis_showpub.php?idpers=4501) - (email: mclopez@us.es)
+- *Moisés Rodriguez*
+
+## Universidad Pablo de Olavide
+
+- [Eva Barrena](https://investiga.upo.es/investigadores/159395/detalle) - (email: ebarrena@upo.es)
+
+## Universidad de Málaga
+
+- [Eligius M. T. Hendrix](https://sites.google.com/site/eligiushendrix/eligius-m-t-hendrix?authuser=0) - (email: eligius@uma.es)
+
+## Universidad Complutense de Madrid
+
+- [Teresa Ortuño](https://produccioncientifica.ucm.es/investigadores/142033/detalle) - (email: mteresa@ucm.es)
+- [Gregorio Tirado](https://produccioncientifica.ucm.es/investigadores/140964/detalle) - (email: gregoriotd@ucm.es)
+- [José María Ferrer](https://produccioncientifica.ucm.es/investigadores/145763/detalle) - (email: jmferrer@ucm.es)
+- [Begoña Vitoriano](https://produccioncientifica.ucm.es/investigadores/142042/detalle) - (email: bvitoriano@ucm.es)
+- [A. Rodríguez]() - (email: )
+- [Javier Martin-Campo](https://produccioncientifica.ucm.es/investigadores/142069/detalle) - (email: javier.martin.campo@ucm.es)
+- [Bibiana Granada](https://produccioncientifica.ucm.es/investigadores/157732/detalle) - (email: bibianag@ucm.es)
+- [Javier León](https://www.ucm.es/imi/javier-leon-caballero) - (email: javileon@ucm.es)
+- [Jesús Barreal](https://produccioncientifica.ucm.es/investigadores/141084/detalle) - (email: jbarreal@ucm.es)
+
+## Universidad Autónoma de Madrid
+
+- [P. Martínez]() - (email:)
+- [J. López]() - (email:)
+
+## Universidad Politécnica de Madrid
+
+- [Alejandro Zarzo](https://transparencia.upm.es/personal/pdi/cv?idpdi=a11c8c36e13ad96d4bce9fcaf7ae2aee27a69905817658183236cf99a9110611) - (email: alejandro.zarzo@upm.es)
+
+## Universidad Carlos III de Madrid
+
+- [Ricardo Gázquez](https://www.uc3m.es/ss/Satellite/DeptEstadistica/en/DetallePersonalDept/1371319031621/idu-359176) - (email: ricardo.gazquez@uc3m.es)
+
+## Universidad Rey Juan Carlos
+
+- [Antonio Alonso Ayuso](https://gestion2.urjc.es/pdi/ver/antonio.alonso) - (email: antonio.alonso@urjc.es)
+- [Celeste Pizarro](https://gestion2.urjc.es/pdi/ver/celeste.pizarro) - (email: celeste.pizarro@urjc.es)
+- [Laureano Escudero](https://scholar.google.es/citations?user=KhDVANkAAAAJ&hl=es) - (email: )
+- [D. Heredia]() - (email:)
+
+## Universidad de Zaragoza
+
+- [Herminia I. Calvete](https://metodosestadisticos.unizar.es/personal/herminia-inmaculada-calvete-fernandez) - (email: herminia@unizar.es)
+- [Carmen Galé](https://metodosestadisticos.unizar.es/personal/maria-del-carmen-gale-pola) - (email: cgale@unizar.es)
+- [José A. Iranzo](https://scholar.google.es/citations?user=7TD4UDkAAAAJ&hl=es) - (email: )
+
+## Universidad de Navarra
+
+- [Javier Elizalde](https://portalcientifico.unav.edu/investigadores/327765/detalle) - (email: jelizalde@unav.es)
+
+## Universidad Politècnica de Catalunya
+
+- [Maria Albareda](https://eio.upc.edu/en/homepages/albareda) - (email: maria.albareda@upc.edu)
+- [Esteve Codina](https://imp.upc.edu/es/miembros/esteve-codina-sancho) - (email: esteve.codina@upc.edu)
+- [Cristina Núñez](https://scholar.google.es/citations?user=AQX-WHwAAAAJ&hl=es) - (email: )
+
+## Universidad Pompeu Fabra
+
+- [Alberto Santini](https://www.upf.edu/es/web/econ/r-z/-/asset_publisher/4U5syd3bPEjW/content/santini-alberto/maximized) - (email: alberto.santini@upf.edu)
+- [J. Rodríguez]() - (email: )
+
+
+## Universidad de las Américas Puebla
+
+- [Juan Díaz](https://www.udlap.mx/profesores/Juan-Antonio-Diaz-Garcia) - (email: )
+
+## Universidad Autónoma de Nuevo León
+
+- [Roger Ríos](https://www.uanl.mx/investigadores/roger-zirahuen-rios-mercado/) - (email: roger.rios@uanl.edu.mx)
+- [Fernando Camacho](https://www.uanl.mx/investigadores/jose-fernando-camacho-vallejo/) - (email: jose.camachovl@uanl.edu.mx)
+
+## Universidad de Cardiff
+
+- [Federico Liberatore](https://profiles.cardiff.ac.uk/staff/liberatoref) - (email: liberatoreF@cardiff.ac.uk)
+
+## ESSEC Bussiness School de París
+
+- [Ivana Ljubic](https://faculty.essec.edu/en/cv/ljubic-ivana/) - (email: ljubic@essec.edu)
+- [Claudia Archetti](https://knowledge.essec.edu/en/authors/claudia-archetti/) - (email: archetti@essec.edu)
+
+## Universidad de Trento
+
+- [Stefano Benati](https://webapps.unitn.it/du/en/Persona/PER0004309/Didattica) - (email: stefano.benati@unitn.it)
+
+## Universidad Niccolò Cusano
+
+- [Andrea Scozzari](https://ricerca.unicusano.it/author/andrea-scozzari/) - (email: andrea.scozzari@unicusano.it)
+
+## Universidad de La Sapienza
+
+- [Lavinia Amorosi](https://www.dss.uniroma1.it/sites/default/files/CV_Lavinia_Amorosi%20pubbl..pdf) - (email: lavinia.amorosi@uniroma1.it)
+- [Federica Ricca](https://corsidilaurea.uniroma1.it/it/users/federicariccauniroma1it) - (email: federica.Ricca@uniroma1.it)
+
+## Karlsruhe Institute of Technology
+
+- [Stephan Nickel](https://dol.ior.kit.edu/english/Team_Nickel.php) - (email: stefan nickel@kit.edu)
+
+## Universidad de Sheffield
+
+- [F. Saldanha](https://www.sheffield.ac.uk/management/people/academic-staff/francisco-saldanha-da-gama) - (email: francisco.saldanha-da-gama@sheffield.ac.uk)
+- [Diego Ruiz](https://www.sheffield.ac.uk/management/people/academic-staff/diego-ruiz-hernandez) - (email: d.ruiz-hernandez@sheffield.ac.uk)
+
+## Universidad de Edimburgo
+
+- [Sergio García-Quiles](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=361) - (email: sergio.garcia-quiles@ed.ac.uk)
+- [Jörg Kalsics](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=450) - (email: joerg.kalcsics@ed.ac.uk)
+
+## Universidad de Wisconsin-Madison
+
+- [Jeff Linderoth](https://directory.engr.wisc.edu/ie/faculty/linderoth_jeffrey) - (email: linderoth@wisc.edu)
+- [Alberto Del Pia](https://directory.engr.wisc.edu/ie/Faculty/Del-pia_Alberto) - (email: delpia@wisc.edu)
+
+## Universidad Heidelberg
+
+- [G. Reinelt](http://comopt.ifi.uni-heidelberg.de/people/reinelt/) - (email: gerhard.reinelt@informatik.uni-heidelberg.de)
+
+## Universidad de Szeged
+ 
+- [B.G. Toth](https://www.inf.u-szeged.hu/~boglarka/) - (eamil: boglarka@inf.szte.hu)
+
+

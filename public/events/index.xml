@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Redloca</title>
+    <link>//localhost:4321/events/</link>
+    <description>Recent content in Events on Redloca</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noticias</title>
+      <link>//localhost:4321/events/news/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/events/news/</guid>
+      <description>&lt;h2 id=&#34;closing-iwoloca-xiii-and-presentation-of-iwoloca-xiv-jointly-organized-with-the-30th-ewgla-meeting&#34;&gt;Closing IWOLOCA XIII and presentation of IWOLOCA XIV (jointly organized with the 30th EWGLA meeting)&lt;/h2&gt;&#xA;&lt;p&gt;The XXX Meeting of EURO Working Group on Locational Analysis will take place in Jerez de la Frontera (Spain) from 17 to 19 September 2025. This is a periodic meeting of EWGLA which gathers researchers focused on Locational Analysis and its applications. Theoretical contributions (concepts, methods, etc.), applied research, and presentations of software, are welcome. Communications, discussions or surveys on new applications, open problems, connections between the field of location theory and related areas are of interest.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

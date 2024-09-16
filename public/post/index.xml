@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Redloca</title>
+    <link>//localhost:4321/post/</link>
+    <description>Recent content in Posts on Redloca</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="//localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IWOLOCA XIII</title>
+      <link>//localhost:4321/iwoloca-xiii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/iwoloca-xiii/</guid>
+      <description>&lt;h2 id=&#34;xiii-international-workshop-on-locational-analysis-and-related-problems&#34;&gt;XIII International Workshop on Locational Analysis and Related Problems&lt;/h2&gt;&#xA;&lt;p&gt;The XIII International Workshop on Locational Analysis and Related Problems will be celebrated in Granada (Spain) 4-6 September 2024. This is an activity organized by the Spanish Network on Location and Related Problems and GELOCA, the SEIO working group on Location. These organizations involve Spanish researchers focused on locational analysis and other related problems, organized in 6 thematic nodes and distributed among several Spanish universities. Every year, the Network organizes a meeting to promote communication among its members and between them and other researchers, including an important number of international researchers, and to contribute to the development of the location field and related problems. The last meeting took place in Edinburgh (UK) in September 2023.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

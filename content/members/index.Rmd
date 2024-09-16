@@ -94,6 +94,7 @@ tags: []
 - [Diego Ponce](https://investigacion.us.es/sisius/sis_showpub.php?idpers=19658) - (email: dponce@us.es)
 - [Alberto Torrejón](https://investigacion.us.es/sisius/sis_showpub.php?idpers=30026) - (email: atorrejon@us.es)
 - [Francisco Temprano](https://investigacion.us.es/sisius/sis_showpub.php?idpers=31858) - (email: ftgarcia@us.es)
+- [Carlos Valverde](https://investigacion.us.es/sisius/sis_showpub.php?idpers=27269) - (email: cvalverde@us.es)
 - [David Canca](https://investigacion.us.es/sisius/sis_showpub.php?idpers=3050) - (email: dco@us.es)
 - [Juan Antonio Mesa](https://investigacion.us.es/sisius/sis_showpub.php?idpers=1195) - (email: jmesa@us.es)
 - [Francisco Ortega](https://investigacion.us.es/sisius/sis_showpub.php?idpers=4223)- (email: riejos@us.es)
